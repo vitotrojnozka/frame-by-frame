@@ -1,95 +1,95 @@
 {
     "appearance": {
-        "message": "Appearance"
+        "message": "Vzhľad"
     },
     "areYouSureYouWantToExportTheData": {
-        "message": "Are you sure you want to export the data?"
+        "message": "Ste si istý, že chcete exportovať dáta?"
     },
     "areYouSureYouWantToImportTheData": {
-        "message": "Are you sure you want to import the data?"
+        "message": "Ste si istý, že chcete importovať dáta?"
     },
     "backgroundColor": {
-        "message": "Background color"
+        "message": "Farba pozadia"
     },
     "black": {
-        "message": "Black"
+        "message": "Čierna"
     },
     "blur": {
-        "message": "Blur"
+        "message": "Rozmazať"
     },
     "cancel": {
-        "message": "Cancel"
+        "message": "Zrušiť"
     },
     "decreaseFramerate": {
-        "message": "Decrease framerate"
+        "message": "Znížiť počet snímkov za sekundu"
     },
     "default": {
-        "message": "Default"
+        "message": "Predvolené"
     },
     "description": {
-        "message": "Best Frame By Frame Tool. Works with all websites! Move your mouse cursor over video and use keyboard arrows to switch frames."
+        "message": "Najlepší nástroj Snímka po snímke. Funguje so všetkými webovými stránkami! Presuňte kurzor myši na video a pomocou šípok na klávesnici prepínajte snímky."
     },
     "duration": {
-        "message": "Duration"
+        "message": "Trvanie"
     },
     "export": {
-        "message": "Export"
+        "message": "Exportovanie"
     },
     "frame": {
-        "message": "Frame"
+        "message": "Snímok"
     },
     "hideInFullscreen": {
-        "message": "Hide in fullscreen"
+        "message": "Skryť v zobrazení na plnú obrazovku"
     },
     "hidePanel": {
-        "message": "Hide panel"
+        "message": "Skryť panel"
     },
     "import": {
-        "message": "Import"
+        "message": "Importovať"
     },
     "increaseFramerate": {
-        "message": "Increase framerate"
+        "message": "Zvžšiť počet snímkov za sekundu"
     },
     "language": {
-        "message": "Language"
+        "message": "Jazyk"
     },
     "light": {
-        "message": "Light"
+        "message": "Svetlo"
     },
     "nextFrame": {
-        "message": "Next frame"
+        "message": "Ďalší snímok"
     },
     "ok": {
-        "message": "Ok"
+        "message": "Dobre"
     },
     "opacity": {
-        "message": "Opacity"
+        "message": "Priehľadnosť"
     },
     "outlineColor": {
-        "message": "Outline color"
+        "message": "Farba obrysu"
     },
     "previousFrame": {
-        "message": "Previous frame"
+        "message": "Predchádzajúci snímok"
     },
     "reset": {
         "message": "Reset"
     },
     "save": {
-        "message": "Save"
+        "message": "Uložiť"
     },
     "shortcuts": {
-        "message": "Shortcuts"
+        "message": "Skratky"
     },
     "somethingWentWrongTryReloadingThePage": {
-        "message": "Something went wrong. Try reloading the page."
+        "message": "Niečo sa pokazilo. Skúste znovu načítať stránku."
     },
     "textColor": {
-        "message": "Text color"
+        "message": "Farba textu"
     },
     "theme": {
-        "message": "Theme"
+        "message": "Téma"
     },
     "time": {
-        "message": "Time"
+        "message": "Čas"
     }
 }
